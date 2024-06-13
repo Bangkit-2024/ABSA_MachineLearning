@@ -1,12 +1,12 @@
-# ABSA - MachineLearning
+# ABSA - Machine Learning
 ## **Table of content:**
-- [Our Project](#item-one)
-- [Machine Learning Part](#item-two)
-- [About Dataset](#item-three)
-- [How it works](#item-four)
-- [Our chosen models](#item-five)
-- [Further Improvement](#item-six)
-- [Contributors](#item-seven)
+  - [Our Project](#item-one)
+  - [Machine Learning Part](#item-two)
+  - [About Dataset](#item-three)
+  - [How it works](#item-four)
+  - [Our chosen models](#item-five)
+  - [Further Improvement](#item-six)
+  - [Contributors](#item-seven)
   
 <!-- headings -->
 <a id="item-one"></a>
