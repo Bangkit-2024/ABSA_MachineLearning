@@ -56,7 +56,7 @@ Pre-trained Indo Setfit is a model that has been pre-trained and optimized for s
 
 While the pre-trained model already offers strong performance, we fine-tuned it using our specific dataset to tailor its predictions to our particular use case. This involved:
   - Data Preparation: Prepare the model to receive files in the form of CSV and convert them into data frames to be processed at the next stage.
-  - Training: Running several epochs of training where the model adjusts its weights based on our dataset, enhancing its ability to predict sentiments for our specific needs accurately.
+  - Training: Running epoch of training where the model adjusts its weights based on our dataset, enhancing its ability to predict sentiments for our specific needs accurately.
 
 Based on benchmarking and performance evaluation, the ABSA-setfit model shows better accuracy and robustness in ABSA tasks than other models that are not tuned for Indonesian. This can be seen from the accuracy of the model as follows.
 
