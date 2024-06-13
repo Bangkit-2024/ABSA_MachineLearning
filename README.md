@@ -35,7 +35,8 @@ The dataset we use consists of restaurant reviews acquired from Bizzagi. Each re
 
 <a id="item-four"></a>
 ## How it works
-![](https://github.com/Bangkit-2024/ABSA_MachineLearning/blob/main/assets/How%20it%20works.png)
+[<img src="[https://example.com/image.png](https://github.com/Bangkit-2024/ABSA_MachineLearning/blob/main/assets/How%20it%20works.png)" alt="Example Image" width="200">]([https://example.com](https://github.com/Bangkit-2024/ABSA_MachineLearning/blob/main/assets/How%20it%20works.png))
+
 
 1. **Preprocess CSV File**  
   The process begins by reading a CSV file containing restaurant reviews. The data is then preprocessed to extract the relevant review texts while removing any unnecessary columns. This step prepares the data for further analysis by ensuring that only the essential information is retained.
